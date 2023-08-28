@@ -1,12 +1,23 @@
-## Hi there 👋
+# INFO
 
-<!--
+> ***Мы молодая и перспективная команда, которая любит учавстовать во всевозможных ML-соревнованиях***
+> 
 
-**Here are some ideas to get you started:**
+## Состав команды:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- @владимир  **-** *Владимир Качеев, 18 лет, `````ML````` `DS` `Team-Lead`*
+- @Kristian **-** *Богдан Кристиан, 16 лет, ````ML```` `DS`*
+- @Danis **-** *Данис Динмухаметов, 16 лет, ``ML`` ``full-stack`` `DS`*
+- @Triest **-** *Ян Густов, 16 лет, `ML` `backend`*
+
+## Полезные странички:
+
+## Командые сотсети:
+
+<aside>
+🔮 [discord](https://discord.gg/4sz6EEJ8) - *дискорд* команды
+</aside>
+
+<aside>
+📞 [github](https://github.com/ALT-F4-Team) - *github* команды
+</aside>
